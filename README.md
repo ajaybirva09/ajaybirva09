@@ -83,7 +83,6 @@ Hey there! I'm **Ajay**, passionate about **VLSI Design, Robotics, and Embedded 
 ## 🤝 Let's Connect
 💼 [LinkedIn](https://linkedin.com/in/your-link)  
 📧 **Email:** ajaybirva09@gmail.com  
-📱 **Phone:** +91 7090502895
 
 ![Gradient Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
