@@ -7,7 +7,7 @@
 ## 🐱 About Me:
 Hey there! I'm **Ajay**, passionate about **VLSI Design, Robotics, and Embedded Systems**.
 
-- 🎓 Final-year **ECE student** at **Sahyadri College of Engineering and Management, Mangaluru**  
+- 🎓 **ECE Graduate** at **Sahyadri College of Engineering and Management, Mangaluru**  
 - 🤖 Currently interning as **Embedded Systems Engineer Intern** at **TIF Labs (Robocraze)**  
 - 🔹 Experienced in **Digital Design & Verification** with **Verilog/SystemVerilog/UVM**  
 - 🌊 Developed an **Autonomous Surface Vehicle (ASV)** for **real-time water quality monitoring & depth mapping**, presented at **CSEAi 2024 (SCOPUS-indexed)**  
