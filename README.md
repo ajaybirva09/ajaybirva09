@@ -12,7 +12,7 @@ Hey there! I'm **Ajay**, passionate about **VLSI Design, Robotics, and Embedded 
 - 🔹 Experienced in **Digital Design & Verification** with **Verilog/SystemVerilog/UVM**  
 - 🌊 Developed an **Autonomous Surface Vehicle (ASV)** for **real-time water quality monitoring & depth mapping**, presented at **CSEAi 2024 (SCOPUS-indexed)**  
 - 💡 Always exploring **low-power embedded designs**, **analog layout design**, and **FPGA implementations**  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-link) | **ajaybirva09@gmail.com**
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/ajayintech) | **ajaybirva09@gmail.com**
 
 <img align="right" alt="Circuit Board" width="250px" src="https://i.imgur.com/5c0jIEM.gif">
 
