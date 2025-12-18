@@ -27,49 +27,9 @@
 | **📟 FPGA Platforms** | ![FPGA](https://img.shields.io/badge/FPGA-FF6347?style=for-the-badge) ![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge&logo=xilinx&logoColor=white) ![Intel FPGA](https://img.shields.io/badge/Intel_FPGA-0071C5?style=for-the-badge&logo=intel&logoColor=white) |
 | **💻 Programming** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SystemC](https://img.shields.io/badge/SystemC-FF6600?style=for-the-badge) |
 
-🚀 Featured Projects
-1. Single-Port Synchronous RAM Design & Verification
-<div align="center">
-systemverilog
-// Parameterized RAM Module
-module sync_ram #(
-    parameter ADDR_WIDTH = 8,
-    parameter DATA_WIDTH = 32
-)(
-    input logic clk,
-    input logic we,
-    input logic [ADDR_WIDTH-1:0] addr,
-    input logic [DATA_WIDTH-1:0] data_in,
-    output logic [DATA_WIDTH-1:0] data_out
-);
-    // RTL Implementation
-endmodule
-</div>
-2. 8-bit ALU Design, Synthesis & Verification
-<div align="center">
-verilog
-module alu_8bit (
-    input [7:0] a, b,
-    input [2:0] op,
-    output reg [7:0] out,
-    output zero_flag
-);
-    // ALU Operations: ADD, SUB, AND, OR, XOR, NOT, SLT
-endmodule
-</div>
-3. Autonomous Surface Vehicle (ASV) Project
-CSEAi 2024 Publication | KSCST Funding: ₹4,500
 
 📊 GitHub Activity
 <!-- GitHub Contribution Graph --><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaybirva09&theme=react-dark&bg_color=0d1117&hide_border=true&area_color=22D3EE&line=22D3EE&point=FFFFFF" /> </div>
-🎓 Education & Experience
-📚 Academic Background
-text
-┌─────────────────────────────────────────────────────────────┐
-│  B.E. Electronics & Communication Engineering              │
-│  Sahyadri College of Engineering, Mangaluru (2021-2025)    │
-│  CGPA: 8.79/10.0                                           │
-└─────────────────────────────────────────────────────────────┘
 💼 Professional Timeline
 🔗 Connect With Me
 <div align="center"> <a href="https://linkedin.com/in/ajayintech/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /> </a> <a href="mailto:ajaybirva09@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /> </a> <a href="https://github.com/ajaybirva09"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /> </a> </div>
