@@ -1,7 +1,7 @@
 <!-- Header with animated VLSI theme -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+Digital+World!;VLSI+Enthusiast+%26+Embedded+Engineer;RTL+Design+%7C+Verification+%7C+FPGA" alt="Typing Animation" />
-</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&height=70&lines=Welcome+to+my+Digital+World!;VLSI+%26+Embedded+Systems+Engineer;RTL+Design+%7C+Verification+%7C+FPGA" alt="Typing Animation" />
+</h1>>
 
 <div align="center">
   
