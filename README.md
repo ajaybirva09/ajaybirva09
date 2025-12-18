@@ -1,94 +1,36 @@
-<h1 align="center">Hi there, I'm Ajay! 👋</h1>
+<!-- Header with animated VLSI theme -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+Digital+World!;VLSI+Enthusiast+%26+Embedded+Engineer;RTL+Design+%7C+Verification+%7C+FPGA" alt="Typing Animation" />
+</h1>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dajaybirva09%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat" alt="ajaybirva09" />
-</p>
+<div align="center">
+  
+  <!-- Animated circuit board -->
+  ![Circuit Animation](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif)
+  
+  <!-- Stats with VLSI theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=22D3EE&langs_count=8" height="180" alt="languages graph" />
+</div>
 
-<p align="center">
-<b>Embedded Systems Engineer | Digital Design & Verification Enthusiast | FPGA Developer</b>
-</p>
+---
 
-<p align="center">
-I am a <b>B.E. graduate in Electronics and Communication Engineering</b> from Sahyadri College of Engineering and Management. My passion lies in <b>RTL Design, Verification (SystemVerilog/UVM), and Embedded Systems</b>. I love bridging the gap between hardware and software to build reliable robotic and digital systems.
-</p>
+## 🔬 **VLSI & Digital Design Portfolio**
 
-<p align="center">
-<a href="mailto:ajaybirva09@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Me-d14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-</p>
+### **🛠️ Core Technical Skills**
 
-🔭 Current Status
+| **Category** | **Technologies & Tools** |
+|--------------|--------------------------|
+| **🖥️ HDL Languages** | ![Verilog](https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge&logo=verilog&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8A2BE2?style=for-the-badge&logo=verilog&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-000080?style=for-the-badge) |
+| **⚡ EDA Tools** | ![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white) ![Quartus](https://img.shields.io/badge/Intel_Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![Cadence](https://img.shields.io/badge/Cadence-FF0000?style=for-the-badge) ![ModelSim](https://img.shields.io/badge/ModelSim-00BFFF?style=for-the-badge) |
+| **🔌 Protocols** | ![I2C](https://img.shields.io/badge/I²C-8B008B?style=for-the-badge) ![SPI](https://img.shields.io/badge/SPI-32CD32?style=for-the-badge) ![UART](https://img.shields.io/badge/UART-FF4500?style=for-the-badge) |
+| **📟 FPGA Platforms** | ![FPGA](https://img.shields.io/badge/FPGA-FF6347?style=for-the-badge) ![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge&logo=xilinx&logoColor=white) ![Intel FPGA](https://img.shields.io/badge/Intel_FPGA-0071C5?style=for-the-badge&logo=intel&logoColor=white) |
+| **💻 Programming** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SystemC](https://img.shields.io/badge/SystemC-FF6600?style=for-the-badge) |
 
-🎓 Education: B.E. in ECE (CGPA: 8.79)
+---
 
-💼 Recent Experience:
+## **🚀 Featured Projects**
 
-Digital Design Intern at KarMic Design Pvt Ltd (Verilog, SystemVerilog, RTL Verification).
-
-Embedded Systems Intern at TIF Labs/Robocraze (Robotics, I2C/SPI/UART).
-
-🔬 Research: Published a paper on "Autonomous Surface Vehicle for Aquatic Monitoring" at CSEAi 2024 (SCOPUS-indexed).
-
-🛠️ Technical Stack
-
-Languages
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Verilog-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Dverilog%26logoColor%3Dblack" alt="Verilog" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SystemVerilog-181717%3Fstyle%3Dfor-the-badge%26logo%3Dsystemverilog%26logoColor%3Dwhite" alt="SystemVerilog" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MATLAB-e16737%3Fstyle%3Dfor-the-badge%26logo%3Dmathworks%26logoColor%3Dwhite" alt="MATLAB" />
-</p>
-
-Hardware & Tools
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Xilinx%2520Vivado-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dxilinx%26logoColor%3Dwhite" alt="Vivado" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Intel%2520Quartus-0071C5%3Fstyle%3Dfor-the-badge%26logo%3Dintel%26logoColor%3Dwhite" alt="Quartus" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ModelSim-1D365D%3Fstyle%3Dfor-the-badge%26logo%3Dmentor-graphics%26logoColor%3Dwhite" alt="ModelSim" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Cadence%2520Virtuoso-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dcadence%26logoColor%3Dwhite" alt="Cadence" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LTSpice-800000%3Fstyle%3Dfor-the-badge%26logo%3Danalog-devices%26logoColor%3Dwhite" alt="LTSpice" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Arduino-00979D%3Fstyle%3Dfor-the-badge%26logo%3Darduino%26logoColor%3Dwhite" alt="Arduino" />
-</p>
-
-💻 Featured Projects
-
-Project
-
-Description
-
-Tech Stack
-
-Autonomous Surface Vehicle
-
-Developed a vehicle for aquatic monitoring and depth mapping. Funded by KSCST and published in CSEAi 2024.
-
-Embedded C, Sensors, Robotics
-
-Single-Port RAM Design
-
-Designed and verified a parameterized synchronous RAM. Implemented UVM-style testbench (Driver, Monitor, Scoreboard).
-
-SystemVerilog, UVM Concepts
-
-8-bit ALU Design
-
-Designed an ALU supporting ADD, SUB, AND, OR, XOR, etc. Performed Synthesis and Timing Analysis in Vivado.
-
-Verilog, Xilinx Vivado
-
-📊 GitHub Stats
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dajaybirva09%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" alt="Ajay's GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dajaybirva09%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" />
-</p>
-
-<p align="center">
-<i>"Hardware is the ultimate reality check."</i>
-</p>
+### **1. Single-Port Synchronous RAM Design & Verification**
+<div align="center">
+</div>
