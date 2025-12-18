@@ -18,12 +18,7 @@ https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif Where hardware meets e
 
 </div>
 📊 GitHub Analytics
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=ajay098&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered	https://github-readme-stats.vercel.app/api/top-langs/?username=ajay098&layout=compact&theme=nightowl&hide_border=true&langs_count=8&exclude_repo=github-readme-stats,ajay098.github.io
-https://streak-stats.demolab.com?user=ajay098&theme=nightowl&hide_border=true&date_format=M%2520j%255B%252C%2520Y%255D
-https://github-profile-trophy.vercel.app/?username=ajay098&theme=onedark&no-frame=true&row=2&column=4
-
-</div>
+<div align="center"><table> <tr> <td><img src="https://github-readme-stats.vercel.app/api?username=ajay098&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered" alt="GitHub Stats" /></td> <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay098&layout=compact&theme=nightowl&hide_border=true&langs_count=8&exclude_repo=github-readme-stats,ajay098.github.io" alt="Top Languages" /></td> </tr> </table><img src="https://streak-stats.demolab.com?user=ajay098&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> <img src="https://github-profile-trophy.vercel.app/?username=ajay098&theme=onedark&no-frame=true&row=2&column=4" alt="Trophy Case" /></div>
 🏗️ Technical Stack
 Digital Design & Verification
 systemverilog
@@ -43,30 +38,25 @@ class my_env extends uvm_env;
     coverage = my_cov::type_id::create("coverage", this);
   endfunction
 endclass
-Domain	Technologies	Proficiency	Tools
-RTL Design	Verilog, SystemVerilog, VHDL	🔵🔵🔵🔵⚪	Cadence Genus, Synopsys DC
-Verification	SystemVerilog, UVM, SVA	🔵🔵🔵🔵🔵	Cadence Xcelium, Synopsys VCS
-FPGA Design	Vitis HLS, Vivado	🔵🔵🔵🔵⚪	Xilinx Vivado, Intel Quartus
-Scripting	TCL, Python, Makefiles	🔵🔵🔵🔵⚪	Bash, Perl, CMake
-Methodology	OOP, CDV, Formal	🔵🔵🔵🔵⚪	UVM, JasperGold, VC Formal
+<table> <tr> <th><strong>Domain</strong></th> <th><strong>Technologies</strong></th> <th><strong>Proficiency</strong></th> <th><strong>Tools</strong></th> </tr> <tr> <td><strong>RTL Design</strong></td> <td>Verilog, SystemVerilog, VHDL</td> <td>🔵🔵🔵🔵⚪</td> <td>Cadence Genus, Synopsys DC</td> </tr> <tr> <td><strong>Verification</strong></td> <td>SystemVerilog, UVM, SVA</td> <td>🔵🔵🔵🔵🔵</td> <td>Cadence Xcelium, Synopsys VCS</td> </tr> <tr> <td><strong>FPGA Design</strong></td> <td>Vitis HLS, Vivado</td> <td>🔵🔵🔵🔵⚪</td> <td>Xilinx Vivado, Intel Quartus</td> </tr> <tr> <td><strong>Scripting</strong></td> <td>TCL, Python, Makefiles</td> <td>🔵🔵🔵🔵⚪</td> <td>Bash, Perl, CMake</td> </tr> <tr> <td><strong>Methodology</strong></td> <td>OOP, CDV, Formal</td> <td>🔵🔵🔵🔵⚪</td> <td>UVM, JasperGold, VC Formal</td> </tr> </table>
 Tool Ecosystem
 <div align="center">
 EDA Tools
-https://img.shields.io/badge/Cadence-FF0000?style=flat-square&logo=cadence&logoColor=white
-https://img.shields.io/badge/Synopsys-FF6F00?style=flat-square&logo=synopsys&logoColor=white
-https://img.shields.io/badge/Siemens_EDA-00A3E0?style=flat-square&logo=siemens&logoColor=white
-https://img.shields.io/badge/Xilinx-E01F27?style=flat-square&logo=xilinx&logoColor=white
+<img src="https://img.shields.io/badge/Cadence-FF0000?style=flat-square&logo=cadence&logoColor=white" alt="Cadence" />
+<img src="https://img.shields.io/badge/Synopsys-FF6F00?style=flat-square&logo=synopsys&logoColor=white" alt="Synopsys" />
+<img src="https://img.shields.io/badge/Siemens_EDA-00A3E0?style=flat-square&logo=siemens&logoColor=white" alt="Siemens EDA" />
+<img src="https://img.shields.io/badge/Xilinx-E01F27?style=flat-square&logo=xilinx&logoColor=white" alt="Xilinx" />
 
 Programming
-https://img.shields.io/badge/SystemVerilog-DA1F26?style=flat-square&logo=verilog&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
-https://img.shields.io/badge/TCL-808080?style=flat-square&logo=tcl&logoColor=white
-https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%252B%252B&logoColor=white
+<img src="https://img.shields.io/badge/SystemVerilog-DA1F26?style=flat-square&logo=verilog&logoColor=white" alt="SystemVerilog" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TCL-808080?style=flat-square&logo=tcl&logoColor=white" alt="TCL" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
 
 Platforms
-https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
-https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
 </div>
 🚀 Featured Projects
@@ -178,17 +168,11 @@ FPGA Design with Vivado HLS	Xilinx	2023	🏆 Completed
 Formal Verification Fundamentals	Cadence	2023	🏆 Completed
 Low-Power Design with UPF	Synopsys	2023	🏆 Completed
 Currently Exploring
-
-
-
-
-
-
-
-
-
-
-
+text
+Current Focus → Formal Verification → JasperGold, VC Formal
+               → Power-Aware Verification → UPF/CPF, Low-Power Simulation
+               → ML for DV → Test Generation, Coverage Closure
+               → All paths lead to → Industry Ready
 🏆 Achievements
 Research Publication
 "Development of an Autonomous Surface Vehicle for Real-Time Aquatic Environment Monitoring and Depth Mapping"
@@ -251,12 +235,12 @@ Signal Processing
 
 📝 Technical Blog
 Latest Articles
-markdown
-📖 **Understanding UVM Phases** - Deep dive into UVM execution flow
-📖 **SVA Cookbook** - Practical assertions for common scenarios
-📖 **Coverage-Driven Verification** - Strategies for coverage closure
-📖 **FPGA Prototyping Best Practices** - From RTL to bitstream
-📖 **Low-Power Verification with UPF** - Power-aware simulation techniques
+text
+📖 Understanding UVM Phases - Deep dive into UVM execution flow
+📖 SVA Cookbook - Practical assertions for common scenarios
+📖 Coverage-Driven Verification - Strategies for coverage closure
+📖 FPGA Prototyping Best Practices - From RTL to bitstream
+📖 Low-Power Verification with UPF - Power-aware simulation techniques
 🤝 Collaboration Opportunities
 I'm actively looking to collaborate on:
 
@@ -300,6 +284,12 @@ https://github-readme-stats.vercel.app/api/wakatime?username=ajay098&theme=night
 
 </div>
 🎯 Current Goals
+text
+VLSI Career Roadmap 2024-2025
+Q3 2024: Complete UVM Expert Certification, Publish 2 Open Source VIPs, Contribute to RISCV Formal
+Q4 2024: Master Formal Verification, Learn Chisel/Scala, Build ML-based Test Generator
+Q1 2025: Explore Analog Mixed-Signal, Study DFT Techniques, Prepare for Masters Applications
+Q2 2025: Research Assistant Position, Conference Paper Submission, Industry Internship
 💬 Testimonials
 "Ajay's understanding of UVM methodology is exceptional for his experience level. His verification environments are robust and well-documented."
 - Dr. Suresh Kumar, Professor of VLSI
@@ -321,6 +311,4 @@ https://img.shields.io/badge/Open%2520Source-3%2520repos-yellow?style=flat-squar
 🔭 Watching for exciting VLSI projects to contribute to!
 
 
-https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Keep%2520Designing%252C%2520Keep%2520Verifying!&fontSize=20&fontAlignY=70
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Keep%20Designing%2C%20Keep%20Verifying!&fontSize=20&fontAlignY=70" alt="Footer" /></div>
