@@ -33,5 +33,7 @@
 💼 Professional Timeline
 🔗 Connect With Me
 <div align="center"> <a href="https://linkedin.com/in/ajayintech/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /> </a> <a href="mailto:ajaybirva09@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /> </a> <a href="https://github.com/ajaybirva09"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /> </a> </div>
+
+
 💡 Fun VLSI Facts
 <div align="center"> <table> <tr> <td align="center" width="50%"> <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="200" /> <br><b>Chip Design Flow</b> </td> <td align="center" width="50%"> <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" /> <br><b>Waveform Simulation</b> </td> </tr> </table> <h3>
