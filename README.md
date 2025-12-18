@@ -28,23 +28,3 @@
 | **💻 Programming** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SystemC](https://img.shields.io/badge/SystemC-FF6600?style=for-the-badge) |
 
 ---
-
-## **🚀 Featured Projects**
-
-### **1. Single-Port Synchronous RAM Design & Verification**
-<div align="center">
-
-```systemverilog
-// Parameterized RAM Module
-module sync_ram #(
-    parameter ADDR_WIDTH = 8,
-    parameter DATA_WIDTH = 32
-)(
-    input logic clk,
-    input logic we,
-    input logic [ADDR_WIDTH-1:0] addr,
-    input logic [DATA_WIDTH-1:0] data_in,
-    output logic [DATA_WIDTH-1:0] data_out
-);
-    // RTL Implementation
-endmodule
